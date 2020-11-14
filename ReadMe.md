@@ -42,6 +42,12 @@ FOUNDATION
 JAVASCRIPT
 ```
 
+## Link to Deployed Application
+
+Select link below to view live application <br>
+<a href="https://lex4736.github.io/Mood_Brew/"> Click here to view webpage </a>
+<br>
+<hr>
 
 ## Example ScreenShot of Web Application
 <img src="assets\Images\ScreenshotProject01.png" alt="Screenshot of Application">
@@ -50,8 +56,3 @@ JAVASCRIPT
 ## Example ScreenShot of Local Storage
 <img src="assets\Images\localstorage.png" alt="Screenshot of Local Storage">
 
-
-## Link to Deployed Application
-
-Select link below to view live application <br>
-<a href="https://lex4736.github.io/Mood_Brew/"> Click here to view webpage </a>
