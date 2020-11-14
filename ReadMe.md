@@ -44,13 +44,14 @@ JAVASCRIPT
 
 
 ## Example ScreenShot of Web Application
-![screenshot of start screen](assets\Images\ScreenshotProject01.png)
+<img src="assets\Images\ScreenshotProject01.png" alt="Screenshot of Application">
 
 
 ## Example ScreenShot of Local Storage
-![screenshot of start screen](assets\Images\localstorage.png)
+<img src="assets\Images\localstorage.png" alt="Screenshot of Local Storage">
 
 
 ## Link to Deployed Application
 
-[Click Here!](https://kaileesmith.github.io/Mood_Brew/)
+Select link below to view live application <br>
+<a href="https://lex4736.github.io/Mood_Brew/"> Click here to view webpage </a>
