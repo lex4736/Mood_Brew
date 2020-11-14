@@ -43,11 +43,13 @@ JAVASCRIPT
 ```
 
 
-## Example ScreenShot of Start Screen
-![screenshot of start screen](./assets/Images/StartScreen.JPG)
+## Example ScreenShot of Web Application
+![screenshot of start screen](assets\Images\ScreenshotProject01.png)
 
-## Example ScreenShot of Outcome after Drink is Generated
-![screenshot of drink outcome screen](./assets/Images/example_output_for_code_works.JPG)
+
+## Example ScreenShot of Local Storage
+![screenshot of start screen](assets\Images\localstorage.png)
+
 
 ## Link to Deployed Application
 
